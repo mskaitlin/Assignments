@@ -1,0 +1,367 @@
+.france{
+    position: relative;
+    background-color: #3d3d3d;
+    width: 300px;
+    height: 200px;
+    border: 2px solid blue;
+
+}
+.francefirst{
+    position: relative;
+    background-color: #002395;
+    width: 100px;
+    height: 100%;
+    float: left;
+
+}
+.francesecond{
+    position: relative;
+    background-color: white;
+    width: 100px;
+    height: 100%;
+    float: left;
+}
+.francethird{
+    position: relative;
+    background-color: #ed2939;
+    width: 100px;
+    height: 100%;
+    float: left;
+}
+
+
+
+.germany{
+    position: relative;
+    background-color: #3d3d3d;
+    width: 500px;
+    height: 300px;
+    border: 2px solid blue;
+
+}
+.germanyfirst{
+    position: relative;
+    background-color:black;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+.germanysecond{
+    position: relative;
+    background-color:red;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+.germanythird{
+    position: relative;
+    background-color: yellow;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+
+
+.madagascar{
+    position: relative;
+    background-color: #3d3d3d;
+    width: 300px;
+    height: 200px;
+    border: 2px solid blue;
+
+}
+.madagascar1{
+    position: relative;
+    background-color: white;
+    width: 100px;
+    height: 100%;
+    float: left;
+}
+.madagascar2{
+    position: relative;
+    background-color: red;
+    width: 200px;
+    height: 50%;
+    float: left;
+}
+.madagascar3{
+    position: relative;
+    background-color: rgb(8, 100, 57);
+    width: 200px;
+    height: 50%;
+    float: left;
+
+}
+
+
+
+.switzerland{
+    position: relative;
+    background-color: #3d3d3d;
+    width: 500px;
+    height: 500px;
+    border: 2px solid blue;
+
+}
+.switzerland1{
+    position: relative;
+    background-color:red;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+.switzerland2{
+    position: relative;
+    background-color:red;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland3{
+    position: relative;
+    background-color:white;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland4{
+    position: relative;
+    background-color:red;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland5{
+    position: relative;
+    background-color:red;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland6{
+    position: relative;
+    background-color:white;
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland7{
+    position: relative;
+    background-color:red;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland8{
+    position: relative;
+    background-color:red;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland9{
+    position: relative;
+    background-color:white;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland10{
+    position: relative;
+    background-color:red;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.switzerland11{
+    position: relative;
+    background-color:red;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+.sweden{
+    position: relative;
+    background-color: #3d3d3d;
+    height: 500px;
+    width: 800px;
+    border: 2px solid blue;
+
+}
+
+.sweden1{
+    position: relative;
+    background-color: rgb(5, 96, 170);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.sweden2{
+    position: relative;
+    background-color: rgb(211, 211, 64);
+    height: 200px;
+    width: 100px;
+    float: left;
+}
+
+.sweden3{
+    position: relative;
+    background-color: rgb(5, 96, 170);
+    height: 200px;
+    width: 500px;
+    float: left;
+}
+
+.sweden4{
+    position: relative;
+    background-color: rgb(211, 211, 64);
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+
+.sweden5{
+    position: relative;
+    background-color: rgb(5, 96, 170);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.sweden6{
+    position: relative;
+    background-color: rgb(211, 211, 64);
+    height: 200px;
+    width: 100px;
+    float: left;
+}
+
+.sweden7{
+    position: relative;
+    background-color: rgb(5, 96, 170);
+    height: 200px;
+    width: 500px;
+    float: left;
+}
+
+.gambia{
+    position: relative;
+    background-color: #3d3d3d;
+    height: 200px;
+    width: 300px;
+    border: 2px solid blue;
+
+}
+.gambia1{
+    position: relative;
+    background-color: red;
+    height: 33.33%;
+    width: 100%;
+    float: left;
+}
+
+.gambia2{
+    position: relative;
+    background-color: white;
+    height: 6.67%;
+    width: 100%;
+    float: left;
+}
+
+.gambia3{
+    position: relative;
+    background-color: blue;
+    height: 20%;
+    width: 100%;
+    float: left;
+}
+
+.gambia4{
+    position: relative;
+    background-color: white;
+    height: 6.67%;
+    width: 100%;
+    float: left;
+}
+
+.gambia5{
+    position: relative;
+    background-color: rgb(7, 100, 7);
+    height: 33.33%;
+    width: 100%;
+    float: left;
+}
+
+
+.japan{
+    position: relative;
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    border: 2px solid blue;
+
+}
+.japan1{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    background-color: rgb(175, 37, 37);
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+
+}
+
+.niger{
+    position: relative;
+    background-color: #3d3d3d;
+    height: 600px;
+    width: 700px;
+    border: 2px solid blue;
+
+}
+.niger1{
+    position: relative;
+    background-color:rgb(255, 115, 0);
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+.niger2{
+    position: relative;
+    background-color:white;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+.niger3{
+    position: relative;
+    background-color: green;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+
+.niger4{
+    position: absolute;
+    top: 35%;
+    left: 260px;
+    background-color: rgb(255, 115, 0);
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+
+}

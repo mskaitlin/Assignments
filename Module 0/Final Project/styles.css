@@ -1,0 +1,37 @@
+h1 {
+    color: pink;
+    font-size: 40px;
+}
+
+.quartz {
+    font-family: fantasy;
+    text-align: left;
+}
+
+ul {
+    line-height: 35px;
+    font-size: 20px;
+}
+
+button {
+    font-family: fantasy;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #808081;
+    font-family: fantasy
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+img {
+    float: left;
+    padding-right: 10px;
+    width: 155px
+  } 
+  

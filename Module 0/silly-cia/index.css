@@ -1,0 +1,29 @@
+h1 {
+    color: pink;
+}
+
+.div {
+    font-family: fantasy;
+    text-align: left;
+}
+
+ul {
+    line-height: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+img {
+    float: left;
+    padding-right: 10px;
+    width: 155px
+  } 
+  
