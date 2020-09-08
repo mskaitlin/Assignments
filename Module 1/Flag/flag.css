@@ -4,7 +4,6 @@
     width: 300px;
     height: 200px;
     border: 2px solid blue;
-
 }
 .francefirst{
     position: relative;
@@ -12,7 +11,6 @@
     width: 100px;
     height: 100%;
     float: left;
-
 }
 .francesecond{
     position: relative;
@@ -28,8 +26,6 @@
     height: 100%;
     float: left;
 }
-
-
 
 .germany{
     position: relative;
@@ -61,15 +57,12 @@
     float: left;
 }
 
-
-
 .madagascar{
     position: relative;
     background-color: #3d3d3d;
     width: 300px;
     height: 200px;
     border: 2px solid blue;
-
 }
 .madagascar1{
     position: relative;
@@ -91,10 +84,7 @@
     width: 200px;
     height: 50%;
     float: left;
-
 }
-
-
 
 .switzerland{
     position: relative;
@@ -102,7 +92,6 @@
     width: 500px;
     height: 500px;
     border: 2px solid blue;
-
 }
 .switzerland1{
     position: relative;
@@ -111,7 +100,6 @@
     height: 100px;
     float: left;
 }
-
 .switzerland2{
     position: relative;
     background-color:red;
@@ -119,7 +107,6 @@
     height: 100px;
     float: left;
 }
-
 .switzerland3{
     position: relative;
     background-color:white;
@@ -135,7 +122,6 @@
     height: 100px;
     float: left;
 }
-
 .switzerland5{
     position: relative;
     background-color:red;
@@ -143,7 +129,6 @@
     height: 100px;
     float: left;
 }
-
 .switzerland6{
     position: relative;
     background-color:white;
@@ -175,7 +160,6 @@
     height: 100px;
     float: left;
 }
-
 .switzerland10{
     position: relative;
     background-color:red;
@@ -183,7 +167,6 @@
     height: 100px;
     float: left;
 }
-
 .switzerland11{
     position: relative;
     background-color:red;
@@ -198,9 +181,7 @@
     height: 500px;
     width: 800px;
     border: 2px solid blue;
-
 }
-
 .sweden1{
     position: relative;
     background-color: rgb(5, 96, 170);
@@ -208,7 +189,6 @@
     width: 200px;
     float: left;
 }
-
 .sweden2{
     position: relative;
     background-color: rgb(211, 211, 64);
@@ -216,7 +196,6 @@
     width: 100px;
     float: left;
 }
-
 .sweden3{
     position: relative;
     background-color: rgb(5, 96, 170);
@@ -224,7 +203,6 @@
     width: 500px;
     float: left;
 }
-
 .sweden4{
     position: relative;
     background-color: rgb(211, 211, 64);
@@ -232,7 +210,6 @@
     width: 100%;
     float: left;
 }
-
 .sweden5{
     position: relative;
     background-color: rgb(5, 96, 170);
@@ -240,7 +217,6 @@
     width: 200px;
     float: left;
 }
-
 .sweden6{
     position: relative;
     background-color: rgb(211, 211, 64);
@@ -248,7 +224,6 @@
     width: 100px;
     float: left;
 }
-
 .sweden7{
     position: relative;
     background-color: rgb(5, 96, 170);
@@ -263,7 +238,6 @@
     height: 200px;
     width: 300px;
     border: 2px solid blue;
-
 }
 .gambia1{
     position: relative;
@@ -272,7 +246,6 @@
     width: 100%;
     float: left;
 }
-
 .gambia2{
     position: relative;
     background-color: white;
@@ -280,7 +253,6 @@
     width: 100%;
     float: left;
 }
-
 .gambia3{
     position: relative;
     background-color: blue;
@@ -288,7 +260,6 @@
     width: 100%;
     float: left;
 }
-
 .gambia4{
     position: relative;
     background-color: white;
@@ -296,7 +267,6 @@
     width: 100%;
     float: left;
 }
-
 .gambia5{
     position: relative;
     background-color: rgb(7, 100, 7);
@@ -305,14 +275,12 @@
     float: left;
 }
 
-
 .japan{
     position: relative;
     background-color: white;
     height: 200px;
     width: 300px;
     border: 2px solid blue;
-
 }
 .japan1{
     position: absolute;
@@ -322,7 +290,6 @@
     height: 120px;
     width: 120px;
     border-radius: 50%;
-
 }
 
 .niger{
@@ -331,7 +298,6 @@
     height: 600px;
     width: 700px;
     border: 2px solid blue;
-
 }
 .niger1{
     position: relative;
@@ -354,7 +320,6 @@
     width: 100%;
     float: left;
 }
-
 .niger4{
     position: absolute;
     top: 35%;
@@ -363,5 +328,313 @@
     height: 180px;
     width: 180px;
     border-radius: 50%;
+}
 
+.tonga{
+    position: relative;
+    background-color: #3d3d3d;
+    height: 480px;
+    width: 960px;
+    border: 2px solid blue;
+}
+.t1{
+    position: relative;
+    background-color: white;
+    width: 320px;
+    height: 30px;
+    float: left;
+}
+.t2{
+    position: relative;
+    background-color:red;
+    width: 640px;
+    height: 30px;
+    float: left;
+}
+.t3{
+    position: relative;
+    background-color: white;
+    width: 137px;
+    height: 60px;
+    float: left;
+}
+.t4{
+    position: relative;
+    background-color: red;
+    width: 46px;
+    height: 60px;
+    float: left;
+}
+.t5{
+    position: relative;
+    background-color: white;
+    width: 137px;
+    height: 60px;
+    float: left;
+}
+.t6{
+    position: relative;
+    background-color: red;
+    width: 640px;
+    height: 60px;
+    float: left;
+}
+.t7{
+    position: relative;
+    background-color: white;
+    width: 80px;
+    height: 60px;
+    float: left;
+}
+.t8{
+    position: relative;
+    background-color: red;
+    width: 160px;
+    height: 60px;
+    float: left;
+}
+.t9{
+    position: relative;
+    background-color: white;
+    width: 80px;
+    height: 60px;
+    float: left;
+}
+.t10{
+    position: relative;
+    background-color: red;
+    width: 640px;
+    height: 60px;
+    float: left;
+}
+.t11{
+    position: relative;
+    background-color: white;
+    width: 137px;
+    height: 60px;
+    float: left;
+}
+.t12{
+    position: relative;
+    background-color: red;
+    width: 46px;
+    height: 60px;
+    float: left;
+}
+.t13{
+    position: relative;
+    background-color: white;
+    width: 137px;
+    height: 60px;
+    float: left;
+}
+
+.t14{
+    position: relative;
+    background-color: red;
+    width: 640px;
+    height: 60px;
+    float: left;
+}
+.t15{
+    position: relative;
+    background-color: white;
+    width: 320px;
+    height: 30px;
+    float: left;
+}
+.t16{
+    position: relative;
+    background-color:red;
+    width: 640px;
+    height: 30px;
+    float: left;
+}
+.t17{
+    position: relative;
+    background-color:red;
+    width: 960px;
+    height: 240px;
+    float: left;
+}
+
+.greece{
+    position: relative;
+    background-color: #3d3d3d;
+    height: 200px;
+    width: 300px;
+    border: 2px solid blue;
+}
+.g1{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 40px;
+    float: left;
+}
+.g2{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 20px;
+    float: left;
+}
+.g3{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 240px;
+    float: left;
+}
+.g4{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 40px;
+    float: left;
+}
+.g5{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 20px;
+    float: left;
+}
+.g6{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 40px;
+    float: left;
+}
+.g7{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 200px;
+    float: left;
+}
+.g8{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 100px;
+    float: left;
+}
+.g9{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 200px;
+    float: left;
+}
+.g10{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 40px;
+    float: left;
+}
+.g11{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 20px;
+    float: left;
+}
+.g12{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 40px;
+    float: left;
+}
+.g13{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 200px;
+    float: left;
+}
+.g14{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 40px;
+    float: left;
+}
+.g15{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 20px;
+    float: left;
+}
+.g16{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 240px;
+    float: left;
+}
+.g17{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 300px;
+    float: left;
+}
+.g18{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 300px;
+    float: left;
+}
+.g19{
+    position: relative;
+    background-color: white;
+    height: 11.11%;
+    width: 300px;
+    float: left;
+}
+.g20{
+    position: relative;
+    background-color: blue;
+    height: 11.11%;
+    width: 300px;
+    float: left;
+}
+
+.maldives{
+    position: relative;
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    border: 2px solid blue;
+}
+.m1{
+    position: relative;
+    background-color: red;
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+.m2{
+    position: absolute;
+    top: 25%;
+    left: 60px;
+    background-color:green;
+    height: 100px;
+    width: 180px;
+}
+.m3{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    box-shadow: -20px, 20px, 0 15px white;
 }

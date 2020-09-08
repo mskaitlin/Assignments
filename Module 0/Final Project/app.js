@@ -156,5 +156,6 @@ function sum() {
     console.log(sunflower.genus)
     console.log(sunflower.symbolize[2])
 
+
 //#3 
 //Go through code, find Conditional Statements. Create Functions and put those Conditional Statements inside the functions you created.
