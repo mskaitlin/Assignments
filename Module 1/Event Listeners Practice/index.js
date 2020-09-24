@@ -2,7 +2,7 @@
 
 var blueHover = document.getElementById("box")
 box.addEventListener("mouseover", function() {
-   box.style.backgroundColor = "blue"
+  box.style.backgroundColor = "blue"
 })
 
 var redDown = document.getElementById("box")
@@ -20,11 +20,18 @@ box.addEventListener("dblclick", function() {
     box.style.backgroundColor  = "darkgreen"
 })
 
+var purpleUp = document.getElementById("box")
+box.addEventListener("mouseup", function() {
+    box.style.backgroundColor = "purple"
+})
+
 var orangeWheel = document.getElementById("box")
 var colorContainer = document.getElementById("color-container")
-colorContainer.addEventListener("", function() {
-    box.style.backgroundColor   = "darkorange"
+colorContainer.addEventListener("wheel", function() {
+   box.style.backgroundColor   = "darkorange"
 })
+
+
 
 var keyDown = document.getElementById("box")
 document.addEventListener("keydown", function(event) {

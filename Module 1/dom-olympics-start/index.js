@@ -1,3 +1,4 @@
+//Qualifier
 const header = document.querySelector('#header')
 header.textContent = 'JavaScript Made This!!'
 header.style.fontSize = '20px'
@@ -19,12 +20,13 @@ div.append (span2)
 span2.textContent = [' wrote the Javascript']
 span2.style.fontSize = '15px'
 
+//bronze
 
-var left = document.getElementsByClassName('message left')
+let left = document.getElementsByClassName('left')
 left[0].textContent = 'so super fun'
 left[1].textContent = 'i love summer'
 
-var right = document.getElementsByClassName('message right')
+let right = document.getElementsByClassName('right')
 right[0].textContent = 'cats are the cutest'
 right[1].textContent = 'dogs are cool too'
 
@@ -32,4 +34,43 @@ const button = document.getElementById('clear-button')
 const messages = document.getElementsByClassName('messages')
 button.addEventListener("click", function() {
     messages[0].textContent = ''
+ })
+
+ //silver
+ let dropDown = document.getElementById('theme-drop-down');
+
+ dropDown.addEventListener("change", function() {   
+    if (dropDown.value === "theme-two" ){
+        left[0].style.backgroundColor = "red";
+        left[1].style.backgroundColor = "red";
+
+        right[0].style.backgroundColor = "black";
+        right[0].style.color = "white";
+
+        right[1].style.backgroundColor = "black";
+        right[1].style.color = "white";
+    }
+
+    if (dropDown.value === "theme-one" ){
+        left[0].style.backgroundColor = "pink";
+        left[1].style.backgroundColor = "pink";
+
+        right[0].style.backgroundColor = "green";
+        right[0].style.color = "white";
+
+        right[1].style.backgroundColor = "green";
+        right[1].style.color = "white";
+    }
+    }
+ )
+
+ //gold
+ let messageDiv = document.querySelector(".messages");
+ let form = document.getElementById("message")
+
+ form.addEventListener("submit", function(e){
+         e.preventDefault()
+        let newDiv = document.createElement('div');
+         newDiv.textContent = input.value;
+         messageDiv.append(newDiv);   
  })
